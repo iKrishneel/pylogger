@@ -18,7 +18,7 @@ install_requires = [
 
 
 setup(
-    name='mylogger',
+    name='pylogger',
     version='0.0.0',
     description='Customized logger',
     author='Krishneel Chaudhary',
